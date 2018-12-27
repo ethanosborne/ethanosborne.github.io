@@ -1,8 +1,8 @@
 #navbar {
-	background-color: #D3D3D3;
+	background-color: #f0f8ff;
 }
 .navbar-light {
-	background-color: #d3d3d3 !important;
+	background-color: #f0f8ff !important;
 }
 .bg-light {
 	background-color: #d3d3d3;
@@ -19,5 +19,8 @@
 	background-color: #f0f8ff;
 }
 main {
+	background-color: #fafafa;
+}
+footer {
 	background-color: #fafafa;
 }
