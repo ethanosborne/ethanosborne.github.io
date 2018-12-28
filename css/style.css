@@ -1,8 +1,8 @@
 #navbar {
-	background-color: #fff;
+	background-color: #fffffb;
 }
 .navbar-light {
-	background-color: #fff !important;
+	background-color: #fffffb !important;
 }
 .bg-light {
 	background-color: #d3d3d3;
@@ -24,13 +24,13 @@
 	border-color: #254869;
 }
 .jumbotron {
-	background-color: #fff;
+	background-color: #fffffb;
 }
 main {
-	background-color: #fff;
+	background-color: #fffffb;
 }
 footer {
-	background-color: #fff;
+	background-color: #fffffb;
 }
 .linkedin {
 	height: 30px;
@@ -43,6 +43,6 @@ footer {
 .projects-btn {
 	width: 22%;
 }
-.email-btn {
+.resume-btn {
 	width: 21%;
 }
