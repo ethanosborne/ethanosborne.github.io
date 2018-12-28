@@ -8,10 +8,18 @@
 	background-color: #d3d3d3;
 }
 .btn-primary {
+	background-color: #0F2F4E;
+	border-color: #0F2F4E;
+}
+.btn-primary:hover {
 	background-color: #254869;
 	border-color: #254869;
 }
-.btn-primary:hover {
+.btn-secondary {
+	background-color: #254869;
+	border-color: #254869;
+}
+.btn-secondary:hover {
 	background-color: #254869;
 	border-color: #254869;
 }
@@ -25,6 +33,10 @@ footer {
 	background-color: #fff;
 }
 .linkedin {
+	height: 30px;
+	width: 30px;
+}
+.email {
 	height: 30px;
 	width: 30px;
 }
