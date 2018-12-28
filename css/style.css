@@ -1,8 +1,8 @@
 #navbar {
-	background-color: #f0f8ff;
+	background-color: #fff;
 }
 .navbar-light {
-	background-color: #f0f8ff !important;
+	background-color: #fff !important;
 }
 .bg-light {
 	background-color: #d3d3d3;
@@ -16,11 +16,21 @@
 	border-color: #254869;
 }
 .jumbotron {
-	background-color: #f0f8ff;
+	background-color: #fff;
 }
 main {
-	background-color: #fafafa;
+	background-color: #fff;
 }
 footer {
-	background-color: #fafafa;
+	background-color: #fff;
+}
+.linkedin {
+	height: 30px;
+	width: 30px;
+}
+.projects-btn {
+	width: 22%;
+}
+.email-btn {
+	width: 21%;
 }
