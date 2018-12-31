@@ -54,3 +54,45 @@ footer {
 	height: 250px;
 	width: 350px;
 }
+/* Media Rules Start Here */
+
+@media only screen and (max-width: 1200px) {
+  .project_img {
+    height: 200px;
+	width: 300px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .project_img {
+    height: 200px;
+	width: 200px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .project_img {
+    height: 150px;
+	width: 200px;
+  }
+  .prof_pic {
+  	height: 400px;
+  	width: 325px;
+  }
+  .projects-btn {
+	width: 48%;
+	margin-right: 5px !important;
+  }
+  .resume-btn {
+	width: 48%;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .project_img {
+    height: 400px;
+	width: 500px;
+  }
+  .prof_pic {
+  	height: 350px;
+  	width: 500px;
+  }
+}
+
