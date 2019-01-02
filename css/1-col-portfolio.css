@@ -40,18 +40,23 @@ body {
 .port_row {
 	margin-bottom: 50px;
 }
-a {
-	color: #CEA15F;
+a.proj_link {
+	color: #576D83;
 }
-a:active {
-	color: #CEA15F;
+.proj_link:active {
+	color: #576D83;
 }
-a:hover {
-	color: #CEA15F;
+.proj_link:hover {
+	color: #576D83;
 	text-decoration: none;
 }
-a:visited {
-	color: #CEA15F;
+.proj_link:visited {
+	color: #576D83;
+}
+.pa_img {
+	height: 250px;
+	width: 100%;
+	margin-bottom: 15px;
 }
 /*.pagination {
   margin-bottom: 15px;
