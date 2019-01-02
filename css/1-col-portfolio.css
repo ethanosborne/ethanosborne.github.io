@@ -13,7 +13,14 @@ body {
     padding-top: 56px;
   }
 }
-
-.pagination {
-  margin-bottom: 15px;
+.img-fluid {
+	height: 300px;
+	width: 700px;
 }
+.btn-primary {
+	background-color: #0F2F4E;
+	border-color: #0F2F4E;
+}
+/*.pagination {
+  margin-bottom: 15px;
+}*/
