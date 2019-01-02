@@ -33,6 +33,26 @@ body {
 	background-color: #0F2F4E;
 	border-color: #0F2F4E;
 }
+.project_img {
+	height: 400px;
+	max-width: 100%;
+}
+.port_row {
+	margin-bottom: 50px;
+}
+a {
+	color: #CEA15F;
+}
+a:active {
+	color: #CEA15F;
+}
+a:hover {
+	color: #CEA15F;
+	text-decoration: none;
+}
+a:visited {
+	color: #CEA15F;
+}
 /*.pagination {
   margin-bottom: 15px;
 }*/
