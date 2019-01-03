@@ -38,18 +38,18 @@ body {
 .port_row {
 	margin-bottom: 50px;
 }
-a.proj_link {
-	color: #576D83;
+.proj_link {
+	color: #7e7e7e;
 }
 .proj_link:active {
-	color: #576D83;
+	color: #7e7e7e;
 }
 .proj_link:hover {
-	color: #576D83;
+	color: #7e7e7e;
 	text-decoration: none;
 }
 .proj_link:visited {
-	color: #576D83;
+	color: #7e7e7e;
 }
 .pa_img {
 	height: 250px;
